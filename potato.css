@@ -35,3 +35,18 @@ button {
 button:hover {
     background-color: #e5c9a8;
 }
+
+.potatoScheme {
+    background-color: chartreuse;
+    color: crimson;
+    font-style: italic;
+    font-weight: bold;
+    border: black 2px solid;
+    margin: 10px;
+    padding: 6.5px 6.5px 6.5px 6.5px;
+
+}
+
+.textSZ {
+    font-size: xx-large;
+}
